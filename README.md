@@ -8,6 +8,7 @@ Capstone project Submitted towards the partial fulfillment of the criteria for a
 
    The E-Commerce Store sells branded merchandise. Using Data Analytics and Machine Learning Models, let’s try and build a model that predicts whether each session will result in the visitor performing an action to add an item to the cart.
 
+[Link for Dataset from Kaggle](https://www.kaggle.com/datasets/smmukesh09/e-commerce-sales-prediction)
 ### Data Description
    * fullVisitorId: - The unique visitor ID.
    * deviceCategory:- The type of device (Mobile, Tablet, Desktop).
