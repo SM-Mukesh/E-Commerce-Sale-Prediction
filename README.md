@@ -29,6 +29,4 @@ Capstone project Submitted towards the partial fulfillment of the criteria for a
     ** Target variable is addedToCart **
     
 ## Result:
-    XGBoost and Logistic Regression seem to be the best-performing models in terms of 
-accuracy, with Logistic Regression having the highest accuracy score of 0.912422. 
-Therefore, either of these models can be considered for E-Commerce sale prediction.
+    XGBoost and Logistic Regression seem to be the best-performing models in terms of accuracy, with Logistic Regression having the highest accuracy score of 0.912422. Therefore, either of these models can be considered for E-Commerce sale prediction.
